@@ -3,9 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* -----------
@@ -99,18 +97,21 @@ div.text-small {
   padding-bottom: 20px;
 }
 div.leadership > h1 {
+  font-weight: 800;
   font-size: 50px;
 }
 
 p {
   color: #8a8a8a;
-  font-size: 24px;
+  font-size: 20px;
 }
 /*--------------
  sezione colonne
  ---------------*/
 article > h2 {
-  font-weight: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  color: black;
   padding-top: 20px;
   padding-bottom: 20px;
 }
